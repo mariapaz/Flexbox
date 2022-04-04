@@ -1,3 +1,3 @@
-# Flexbox
-6. FAC - Flexbox <br>
-7. https://flexbox.mariapaz4.repl.co/
+# 6. FAC - Flexbox
+<br>
+https://flexbox.mariapaz4.repl.co/
